@@ -7,6 +7,6 @@ def main():
 
   #print(quotes)
 
-if __name__== "__primary__":
-  primary()
+if __name__== "__main__":
+  main()
   
